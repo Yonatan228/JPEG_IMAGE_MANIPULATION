@@ -8,6 +8,6 @@ Get a jpeg baseline image, run the program and get some interesting results:)
 
 This is a link to a website that check if a jpeg image is of baseline type: https://www.imgonline.com.ua/eng/progressive-or-baseline-jpeg.php
 
-<img src="https://github.com/Yonatan228/JPEG_IMAGE_MANIPULATION/blob/main/original.jpg" width="500px" height="500px">
-<img src="https://github.com/Yonatan228/JPEG_IMAGE_MANIPULATION/blob/main/x%20mult%20by%202.jpg" height="500px">
-<img src="https://github.com/Yonatan228/JPEG_IMAGE_MANIPULATION/blob/main/x%20divid%20by%202.jpg" width="500px" height="500px">
+<img src="https://github.com/Yonatan228/JPEG_IMAGE_MANIPULATION/blob/main/original.jpg" width="300px" height="300px">
+<img src="https://github.com/Yonatan228/JPEG_IMAGE_MANIPULATION/blob/main/x%20mult%20by%202.jpg" width="300px" height="300px">
+<img src="https://github.com/Yonatan228/JPEG_IMAGE_MANIPULATION/blob/main/x%20divid%20by%202.jpg" width="300px" height="300px">
