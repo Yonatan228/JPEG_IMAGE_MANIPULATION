@@ -10,4 +10,4 @@ This is a link to a website that check if a jpeg image is of baseline type: http
 
 <img src="https://github.com/Yonatan228/JPEG_IMAGE_MANIPULATION/blob/main/original.jpg" width="500px" height="500px">
 <img src="https://github.com/Yonatan228/JPEG_IMAGE_MANIPULATION/blob/main/x%20mult%20by%202.jpg" height="500px">
-<img src="https://github.com/Yonatan228/JPEG_IMAGE_MANIPULATION/blob/main/x%20mult%20by%202.jpg" width="500px" height="500px">
+<img src="https://github.com/Yonatan228/JPEG_IMAGE_MANIPULATION/blob/main/x%20divid%20by%202.jpg" width="500px" height="500px">
